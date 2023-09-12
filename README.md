@@ -1,4 +1,4 @@
-# Hi, I'm Tuf - A Junior Software Developer 👋 🤙
+<img src=header.png  >
 
 ![GIF Alt Text](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
