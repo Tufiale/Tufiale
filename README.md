@@ -1,17 +1,28 @@
-<img src=header.png  >
+<img src=header2.png  >
 
-![GIF Alt Text](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
+# 👋 I'm Tufiale But You Can Call Me Tuf
+
+## 📖 I’m currently learning:
+  - HTML/CSS
+  - SCSS
+  - JavaScript
+  - TypeScript
+  - React
+  - Java
 
 
+## 👀 I’m interested in ...
+  -  🏅 Football (YNWA!)
+  -  📘 Reading novels
+  -  📺 Catch me watching Game of Thrones, The Wire & Modern Family
 
-- 👋 Hi, I’m @Tufiale
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 📫 How to reach me
+  -  LinkedIn: https://www.linkedin.com/in/tufiale-chowdhury-b0b16312b/
+  -  Gmail:  tufiale@gmail.com
+    
+  
 
 
-![GIF Alt Text](https://media.giphy.com/media/IRFQYGCokErS0/giphy.gif)
 
 
 <!---
