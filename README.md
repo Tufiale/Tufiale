@@ -16,8 +16,13 @@
   -  📘 Reading novels
   -  📺 Catch me watching Game of Thrones, The Wire & Modern Family
 
+## 💻 Projects 
+  - [Portfolio](https://tufiale.github.io/personal-portfolio/)
+  - [Beer Punk API](https://tufiale.github.io/beer-belly/)
+  - [Calculator](https://tufiale.github.io/calculator-project/)
+
 ## 📫 How to reach me
-  -  LinkedIn: https://www.linkedin.com/in/tufiale-chowdhury-b0b16312b/
+  -  LinkedIn: [Tufiale Chowdhury](https://www.linkedin.com/in/tufiale-chowdhury-b0b16312b/)
   -  Gmail:  tufiale@gmail.com
     
   
